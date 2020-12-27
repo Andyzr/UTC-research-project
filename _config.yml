@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Data sharing for a UTC project 
 description: Proactive management of mobility impact of interdependent subsurface utility and roadway construction through incentives
 markdown: kramdown
+github:
+  is_project_page: false
