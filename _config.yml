@@ -1,10 +1,6 @@
 theme: jekyll-theme-minimal
 title: Proactive management of mobility impact of interdependent subsurface utility and roadway construction through incentives
 description: Data sharing
-
-Table of contents
-* TOC
-{:toc}
 markdown: kramdown
 github:
   is_project_page: false
