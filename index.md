@@ -20,7 +20,7 @@ The following items are raw data sets used in this research project.
 5. Records of hourly traffic speed for roadway segments in Pennsylvania during 2015 - 2017 from the INRIX company [(link)](https://inrix.com/products/speed/).
 ### Processed data
 The following items are processed data produced in this research project.
-1. **Records of work zones in Pennsylvania and corresponding control group**
+- **Records of work zones in Pennsylvania and corresponding control group**
 
 In this study, we identified 5,352 work zones occurred in roadway network of Pennsylvania from 2015 to 2017. The beginning and ending locations of each work zone are located on high-granular road segments. The localization errors of work zone is at the magnitude of meters. The beginning and ending time of each work zone is at the magnitude of minutes.
 
@@ -30,24 +30,24 @@ For each work zone and each control case, we divide each period into smaller per
 
 For each thirty-minute period in each work zone and control case, we capture the following variables as one complete observation: the corresponding deployment configurations,  *crash occurrence* , weather conditions, traffic speed, and roadway characteristics. The details of these variables will be illustrated in the following part. 
 
-2. **Work zone deployment configurations**
+- **Work zone deployment configurations**
 
 The deployment configurations for each thirty-minute period in each work zone and control cases include duration of the work zone (in seconds), length of the work zone (in meters), whether the studied period is on weekdays (from Monday to Friday), whether the studied period is during daytime (from 6 AM to 6 PM), and whether the corresponding work zone is full closed (instead of partially closed). 
 
-3. **Crash occurrence**
+- **Crash occurrence**
 
 For each thirty-minute period in each work zone and control cases, the crash occurrence is a binary variable indicating whether there is a crash occurred in the investigated period at the corresponding road segment(s).
 
-4. **Weather conditions**
+- **Weather conditions**
 
 For each thirty-minute period in each work zone and control cases, the weather conditions in the processed data set include the hourly average wind speed (in mile per hour), the hourly average temperature (in Fahrenheit scale), and the hourly average precipitation (in inch).
 
 
-5. **Traffic speed**
+- **Traffic speed**
 
 For each thirty-minute period in each work zone and control cases, the traffic speed in the processed data set is the average traffic speed from 210 min to 30 min before the start of investigated period and from the nearest Traffic Message Channel (TMC) segments.
 
-6. **Roadway characteristics**
+- **Roadway characteristics**
 
 For each thirty-minute period in each work zone and control cases, the roadway characteristics include annual average daily traffic (AADT), number of lanes on the roadway, speed limit, number of intersections within the given road segments, and whether the road segment is identified as major roads on National Highway System (NHS).
 
