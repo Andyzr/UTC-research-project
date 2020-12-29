@@ -18,6 +18,7 @@ The following items are raw data sets used in this research project.
 3. Roadway network information of Pennsylvania from the Pennsylvania Department of Transportation (PennDOT) [(link)](https://data-pennshare.opendata.arcgis.com/datasets/rmsseg-state-roads).
 4. Records of road incidents in Pennsylvania during 2015 - 2017 from the Road Condition Reporting System of PennDOT [(link)](http://www.penndot.gov/Doing-Business/OnlineServices/Pages/Developer-Resources-DocumentationAPI.aspx).
 5. Records of hourly traffic speed for roadway segments in Pennsylvania during 2015 - 2017 from the INRIX company [(link)](https://inrix.com/products/speed/).
+
 ### Processed data
 The following items are processed data produced in this research project.
 
