@@ -4,7 +4,7 @@ Table of contents
 ## Introduction 
 
 
-This page is used to document the data sets used and produced in the University Transportation Centers (UTC) project: [Proactive management of mobility impact of interdependent subsurface utility and roadway construction through incentives](https://ppms.cit.cmu.edu/projects/detail/198).
+This page is used to document the data sets used and produced in the Carnegie Mellon University Mobility21 University Transportation Center (UTC) project: [Proactive management of mobility impact of interdependent subsurface utility and roadway construction through incentives](https://ppms.cit.cmu.edu/projects/detail/198).
 
 
 ## Documentation
@@ -55,7 +55,7 @@ For each thirty-minute period in each work zone and control cases, the roadway c
 
 
 ## People
-**Principal Investigators:** Burcu Akinci, Sean Qian
+**Principal Investigators:** [Burcu Akinci](https://www.cmu.edu/cee/people/faculty/akinci.html), [Sean Qian](https://www.cmu.edu/cee/people/faculty/qian.html)
 
 **Student:** Zhuoran Zhang
 ## Copyright
@@ -63,6 +63,5 @@ MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Acknowledgement
-This project is funded in part by Traffic 21 Institute, Carnegie Mellon University’s Mobility21, and US Department of Transportation. The contents of this project reflect the views of the authors, who are responsible for the facts and the accuracy of the information presented herein. The U.S. Government assumes no liability for the contents or use thereof.
-
+This project is funded, partially or entirely, by a grant from the U.S. Department of Transportation’s University Transportation Centers (UTC) Program through the Carnegie Mellon University Mobility21 UTC. However, the U.S. Government assumes no liability for the contents or use thereof. 
 
