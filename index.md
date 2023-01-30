@@ -57,7 +57,7 @@ For each thirty-minute period in each work zone and control cases, the roadway c
 ## People
 **Principal Investigators:** [Burcu Akinci](https://www.cmu.edu/cee/people/faculty/akinci.html), [Sean Qian](https://www.cmu.edu/cee/people/faculty/qian.html)
 
-**Student:** Zhuoran Zhang
+**Student:** [Zhuoran Zhang](https://www.zhangzr.net/)
 ## Copyright
 MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
